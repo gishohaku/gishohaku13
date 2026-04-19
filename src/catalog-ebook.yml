@@ -6,23 +6,23 @@ CHAPS:
     - chap-info-about.re
     - chap-info-coc.re
     - chap-info-fp.re
-    - chap-info-lunch.re
-    - chap-info-stage.re
-    - chap-info-award.re
-    - chap-info-sponsors.re
+    # - chap-info-lunch.re
+    # - chap-info-stage.re
+    # - chap-info-award.re
+    # - chap-info-sponsors.re
 
   - chap-title-circle.re:
     - chap-circle-list.re
     - chap-circle-appeals.re
 
-  - chap-title-sponsor.re:
-    - chap-sponsor-systemi.re
-    - chap-sponsor-yumemi.re
+  # - chap-title-sponsor.re:
+  #   - chap-sponsor-systemi.re
+  #   - chap-sponsor-yumemi.re
 
   - chap-title-staff.re:
     - chap-staff-circle-definition.re
     - chap-staff-party.re
 
 POSTDEF:
-  - chap-printing.re
+  # - chap-printing.re
   - chap-contributors.re
