@@ -72,18 +72,17 @@ PHPがつかえます。
 //embed{
 
 \contributor{トカゲ}{@Hiro\_Sauria}{images/contributors/Hiro_Sauria.jpg}{
-記念すべき12回目のビジュアルデザインを担当させていただきました！
-ご注目いただきたいのが、黄道12星座モチーフのありどらごんくん12体。
-星座の要素だけでなく、技術同人誌を作る上での苦悩も盛り込んだ楽しいデザインにしました。
+華々しい13回目のビジュアルデザインを担当させていただきました！
+最も開催回数が多い、『ホーム』のような開催場所とのことで、私たちのホーム『執筆し、本を発行しないと出られない家』をデザインいたしました^^
+いつも締め切りを破るという実績を解除してしまうので、こちらの物件、私がいの一番に内見いかせていただきます。
 
-私は、二足歩行とお絵描きを得意とする普遍型のトカゲです。
-ハッピー星からきました。
+皆様にとって、技書博がホームのようなイベントとなるよう祈りを込めまして、第13回も素敵なイベントにいたしましょう！
 }
 //}
 
 
 //embed{
     \begin{center}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/contributors/tokage.pdf}
+        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/contributors/tokage.png}
 	\end{center}
 //}
