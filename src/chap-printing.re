@@ -32,9 +32,9 @@
 
 //embed{
     \begin{center}
-        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/1_eiko.pdf}\vspace{10pt}
-        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/2_neko.pdf}\vspace{10pt}
-		\includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/3_pico.pdf}\vspace{10pt}
-        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/3_k9.pdf}
+        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/1_eikou.pdf}\vspace{10pt}
+        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/2_popls.pdf}\vspace{10pt}
+		\includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/3_k9.pdf}\vspace{10pt}
+        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/4_ryokuyousha.pdf}
     \end{center}
 //}

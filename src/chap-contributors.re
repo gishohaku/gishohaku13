@@ -57,7 +57,7 @@
 }
 
 \contributor{yoji（よーじ）}{@YoujiO3}{images/contributors/yoji.jpg}{
-遠出が好きな酒好きWebエンジニア。趣味でカンファレンスによく出没しています。
+都内のIT企業でWebエンジニアをやっています。趣味は遠出と酒。同人誌を含む本を読むのが好きで、つい買い過ぎてしまう。最近はBEエンジニアとして奮闘してます。Ruby勉強中。
 }
 
 \contributor{沼}{@nicozetsche}{images/contributors/nicozetsche.jpg}{
@@ -83,6 +83,6 @@ PHPがつかえます。
 
 //embed{
     \begin{center}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/contributors/tokage.png}
+        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/contributors/kuronekosha.pdf}
 	\end{center}
 //}
