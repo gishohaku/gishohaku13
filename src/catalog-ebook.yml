@@ -9,7 +9,7 @@ CHAPS:
     # - chap-info-lunch.re
     # - chap-info-stage.re
     # - chap-info-award.re
-    # - chap-info-sponsors.re
+    - chap-info-sponsors.re
 
   - chap-title-circle.re:
     - chap-circle-list.re
@@ -20,6 +20,7 @@ CHAPS:
   #   - chap-sponsor-yumemi.re
 
   - chap-title-staff.re:
+    - chap-staff-music.re
     - chap-staff-circle-definition.re
     - chap-staff-party.re
 

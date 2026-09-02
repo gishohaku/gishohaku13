@@ -68,12 +68,12 @@
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=42]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
 		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=43]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=44]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
+		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/chap-circle-appeals/2026_Gishohaku_Appeal.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=45]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=46]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
 		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=47]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
 		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=48]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}	
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=49]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/chap-circle-appeals/Corona_13th.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=50]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=51]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=52]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
@@ -91,20 +91,6 @@
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=64]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=65]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
         \includegraphics[width=0.69\paperwidth,keepaspectratio,page=66]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=67]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=68]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=69]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=70]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=71]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=72]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=73]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=74]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=75]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=76]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=77]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=78]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=79]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=80]{images/chap-circle-appeals/circle-appeals-all.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=81]{images/chap-circle-appeals/circle-appeals-all.pdf}
+		\includegraphics[width=0.69\paperwidth,keepaspectratio,page=67]{images/chap-circle-appeals/circle-appeals-all.pdf}
     \end{center}
 //}

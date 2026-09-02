@@ -16,6 +16,7 @@ CHAPS:
     - chap-circle-appeals.re
 
   - chap-title-staff.re:
+    - chap-staff-music.re
     - chap-staff-circle-definition.re
     - chap-staff-party.re
 
